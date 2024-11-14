@@ -117,7 +117,7 @@ Catatan : Penilaian Milestone  juga dapat dipengaruhi oleh aktivitas student sel
 
 ## Notes
 
-* **Deadline : P1W4D4 pukul 18:00 WIB.**
+* **Deadline : P1W4D4 pukul 23:59 WIB.**
 
 * **Keterlambatan pengumpulan tugas mengakibatkan skor Milestone 2 menjadi 0.**
 
